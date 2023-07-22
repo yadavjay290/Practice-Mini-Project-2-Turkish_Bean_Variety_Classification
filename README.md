@@ -1,0 +1,2 @@
+# Practice-Mini-Project-2-Turkish_Bean_Variety_Classification
+Practice Mini Project 2-Turkish_Bean_Variety_Classification
